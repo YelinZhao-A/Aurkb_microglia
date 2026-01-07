@@ -1,2 +1,5 @@
-# Aurkb_microglial
-Aurkb deficiency disrupts microglial development, homeostasis and hinders remyelination following cuprizone-induced demyelination 
+# Aurkb deficiency disrupts microglial development, homeostasis and hinders remyelination following cuprizone-induced demyelination 
+
+Microglia are crucial for phagocytic clearance of myelin debris, which hinders remyelination and leads to neurological decline during aging and in multiple sclerosis (MS). However, the molecular mechanism enabling microglia to expand and function effectively in remyelination remains elusive. Here, we identified that mitotic kinase Aurkb was upregulated in microglia during early development and in MS. Neonatal deletion of Aurkb disrupted cell density, morphology and proliferation, which is attributed to stalled mitosis. Inducible Aurkb ablation in adulthood led to microglial dystrophy and disrupted homeostasis. Aurkb deficiency compromised microglial activation in response to LPS-induced inflammation. Critically, Aurkb-deficient mice exhibited accumulated myelin debris and impaired oligodendrocyte regeneration and remyelination in the CPZ-induced demyelination model. Additionally, Aurkb deletion inhibited microglial clearance of myelin debris, independent of reduced microglia numbers. This defect was associated with diminished autophagy. Together, these findings establish Aurkb as a key regulator of microglial development, homeostasis and responses to remyelination.
+
+This repository contains the code used for scRNA-seq analyses.
